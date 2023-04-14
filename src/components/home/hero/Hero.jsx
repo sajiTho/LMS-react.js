@@ -6,6 +6,7 @@ const Hero = () => {
   return (
     <>
       <section className='hero'>
+      
         <div className='container'>
           <div className='row'>
             <Heading subtitle='WELCOME TO ACADEMIA' title='Best Online Education Expertise' />
@@ -19,6 +20,7 @@ const Hero = () => {
               <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
               </button>
+
           
             </div>
           </div>
